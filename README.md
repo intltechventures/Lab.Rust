@@ -1,5 +1,5 @@
-# MyRustLab
-A repository that serves as a lab for exploring the Rust Language
+# Lab.Rust
+A repository that serves as my lab for exploring the Rust Language
 * https://www.rust-lang.org/
 
 Community
