@@ -1,0 +1,1 @@
+The intent of this directory is to provide a docker script for settig up the performance benchmark environment

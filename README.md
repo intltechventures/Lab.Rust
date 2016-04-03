@@ -21,4 +21,4 @@ Rust Documentation:
 * https://doc.rust-lang.org/nomicon/ 
 
 Source Code Examples
-* HelloWorld
+* [https://github.com/intltechventures/Lab.Rust/tree/master/labs/HelloWorld/src|HelloWorld]
