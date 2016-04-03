@@ -35,7 +35,7 @@ The intent is to use a set of computationally intensive algorithms to compare Ru
 * An R program will be written to consume the various Language performance metric output files
 
 * Each Language performance metrics output file will conform to the following naming convention:
-	* '<Test ID>.<Language>.json'
+	* '<Test ID>'.'<Language>'.json
 	* For example: pb-001.rust.json
 
 * Possible way to simplify & automate the collection of system performance metrics:
