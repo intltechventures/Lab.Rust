@@ -1,2 +1,2 @@
 Performance Benchmark Test Scenario
-# PB-001: Prime Number Generator
+# pb-001: Prime Number Generator
