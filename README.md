@@ -23,5 +23,5 @@ A repository that serves as my lab for exploring the Rust Language
 # Source Code Examples
 * [HelloWorld](https://github.com/intltechventures/Lab.Rust/tree/master/labs/HelloWorld/src)
 
-#[Project Benchmarks](https://github.com/intltechventures/Lab.Rust/tree/master/benchmarks)
+#[Performance Benchmarks](https://github.com/intltechventures/Lab.Rust/tree/master/benchmarks)
 * [pb-001 Prime Number Generator](https://github.com/intltechventures/Lab.Rust/tree/master/benchmarks/src/pb-001)
