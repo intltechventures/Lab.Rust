@@ -11,6 +11,7 @@ The intent is to use a set of computationally intensive algorithms to compare Ru
 * PHP (7)
 * Python (3.x)
 * R 
+* Ruby
 * Scala
 
 # Performance Benchmark Scenarios
