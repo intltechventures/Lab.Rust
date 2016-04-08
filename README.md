@@ -2,17 +2,11 @@
 A repository that serves as my lab for exploring the Rust Language
 * https://www.rust-lang.org/
 
-Community
+# Rust Language Community Resources
 * https://users.rust-lang.org/
 * https://stackoverflow.com/questions/tagged/rust
 
-Notepad++ 
-* https://notepad-plus-plus.org/
-
-Syntax highlighting for Rust.
-* https://github.com/pfalabella/Rust-notepadplusplus
-
-Rust Documentation:
+# Rust Documentation:
 * https://www.rust-lang.org/documentation.html
 * https://doc.rust-lang.org/book/
 * https://doc.rust-lang.org/reference.html
@@ -20,5 +14,14 @@ Rust Documentation:
 * http://rustbyexample.com/ 
 * https://doc.rust-lang.org/nomicon/ 
 
-Source Code Examples
+# Notepad++ 
+* https://notepad-plus-plus.org/
+
+# Notepad++ Syntax highlighting for Rust.
+* https://github.com/pfalabella/Rust-notepadplusplus
+
+# Source Code Examples
 * [HelloWorld](https://github.com/intltechventures/Lab.Rust/tree/master/labs/HelloWorld/src)
+
+# [Project Benchmarks](https://github.com/intltechventures/Lab.Rust/tree/master/benchmarks)
+## [pb-001 Prime Number Generator](https://github.com/intltechventures/Lab.Rust/tree/master/benchmarks/src/pb-001)
