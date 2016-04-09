@@ -46,6 +46,15 @@ touch Julia\src\README.md
 mkdir Julia\results
 touch Julia\results\README.md
 
+
+mkdir Lua
+touch Lua\README.md
+mkdir Lua\src
+touch Lua\src\README.md
+mkdir Lua\results
+touch Lua\results\README.md
+
+
 mkdir PHP
 touch PHP\README.md
 mkdir PHP\src
