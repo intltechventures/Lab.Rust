@@ -27,3 +27,6 @@ A repository that serves as my lab for exploring the Rust Language
 * http://zsiciarz.github.io/24daysofrust/
 * https://github.com/nrc/patterns
 * https://this-week-in-rust.org/
+
+Interesting Github Resources
+* https://github.com/emk/rust-musl-builder  
