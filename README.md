@@ -31,7 +31,7 @@ Useful Resources
 * https://github.com/nrc/patterns
 * https://this-week-in-rust.org/
 * https://github.com/ctjhoa/rust-learning
-
+* https://crates.io/
 
 Interesting Github Resources
 * https://github.com/emk/rust-musl-builder  
@@ -42,6 +42,15 @@ Interesting Github Resources
 	* https://github.com/hyperium/hyper
 * https://github.com/BurntSushi/byteorder
 * https://github.com/Manishearth/rust-clippy
+* https://github.com/rust-lang-nursery/
+* Logging
+	* http://doc.rust-lang.org/log/log/index.html
+		* https://crates.io/keywords/logger
+		* https://github.com/rust-lang-nursery/log
+		* https://github.com/daboross/fern-rs
+		* https://github.com/sfackler/log4rs
+			* http://sfackler.github.io/log4rs/doc/log4rs/
 
+		
 Interesting Github Accounts
 * https://github.com/brson
