@@ -21,8 +21,10 @@ A repository that serves as my lab for exploring the Rust Language
 # Notepad++ Syntax highlighting for Rust.
 * https://github.com/pfalabella/Rust-notepadplusplus
 
-# Source Code Examples
+# Labs - Source Code Examples
 * [HelloWorld](https://github.com/intltechventures/Lab.Rust/tree/master/labs/HelloWorld/src)
+* [gueesing_game] (https://github.com/intltechventures/Lab.Rust/tree/master/labs/guessing_game)
+
 
 # Useful Resources
 * http://zsiciarz.github.io/24daysofrust/
