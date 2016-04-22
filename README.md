@@ -6,7 +6,8 @@ A repository that serves as my lab for exploring the Rust Language
 * https://users.rust-lang.org/
 * https://stackoverflow.com/questions/tagged/rust
 
-# Rust Documentation:
+# Rust Documentation
+* http://doc.rust-lang.org/nightly/
 * https://www.rust-lang.org/documentation.html
 * https://doc.rust-lang.org/book/
 * https://doc.rust-lang.org/reference.html
