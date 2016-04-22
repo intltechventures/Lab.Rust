@@ -1,0 +1,7 @@
+[package]
+name = "httptest"
+version = "0.1.0"
+authors = ["Kelvin D. Meeks <kmeeks@intltechventures.com>"]
+
+[dependencies]
+iron = "*"
