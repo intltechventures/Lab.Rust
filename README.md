@@ -26,14 +26,18 @@ Notepad++ Syntax highlighting for Rust.
 Labs - Source Code Examples - demos of concepts and techniques
 * https://github.com/intltechventures/Lab.Rust/tree/master/labs
 
-Useful Resources
+Useful Resources for Learning Rust
 * http://zsiciarz.github.io/24daysofrust/
 * https://github.com/nrc/patterns
 * https://this-week-in-rust.org/
 * https://github.com/ctjhoa/rust-learning
+* https://github.com/kud1ing/awesome-rust
+
+Rust Community
+* https://www.reddit.com/r/rust/comments/
 * https://crates.io/
 
-Interesting Github Resources
+Interesting Rust Libraries - Github Resources
 * https://github.com/emk/rust-musl-builder  
 * https://github.com/brson/stdx
 * https://github.com/brson/burst
@@ -50,7 +54,13 @@ Interesting Github Resources
 		* https://github.com/daboross/fern-rs
 		* https://github.com/sfackler/log4rs
 			* http://sfackler.github.io/log4rs/doc/log4rs/
-
+* Database
+	* https://crates.io/keywords/database
+	* MySQL
+		* http://blackbeam.org/doc/mysql/
+		* https://github.com/blackbeam/rust-mysql-simple
+		* https://github.com/outersky/r2d2-mysql
+		* https://github.com/blackbeam/rust-mysql-simple
 		
 Interesting Github Accounts
 * https://github.com/brson
