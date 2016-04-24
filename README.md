@@ -61,6 +61,8 @@ Interesting Rust Libraries - Github Resources
 		* https://github.com/blackbeam/rust-mysql-simple
 		* https://github.com/outersky/r2d2-mysql
 		* https://github.com/blackbeam/rust-mysql-simple
-		
+* [tikv - Distributed transactional key value database powered by Rust and Raft] (https://github.com/pingcap/tikv)
+
+
 Interesting Github Accounts
 * https://github.com/brson
