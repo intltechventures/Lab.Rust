@@ -68,3 +68,8 @@ Interesting Rust Libraries - Github Resources
 Interesting Github Accounts
 * https://github.com/brson
 * https://github.com/pingcap
+
+Interesting Rust Articles
+* http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
+
+
