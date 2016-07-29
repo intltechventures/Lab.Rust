@@ -71,5 +71,5 @@ Interesting Github Accounts
 
 Interesting Rust Articles
 * http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
-
+  * https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
 
