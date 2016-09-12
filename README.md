@@ -23,6 +23,14 @@ Notepad++
 Notepad++ Syntax highlighting for Rust.
 * https://github.com/pfalabella/Rust-notepadplusplus
 
+
+Eclipse IDE Plugin
+* Rust
+  * http://rustdt.github.io/
+  * https://rustdt.github.io/releases/
+  * https://github.com/RustDT/RustDT
+
+
 Labs - Source Code Examples - demos of concepts and techniques
 * https://github.com/intltechventures/Lab.Rust/tree/master/labs
 
