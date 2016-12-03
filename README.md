@@ -72,6 +72,11 @@ Interesting Rust Libraries - Github Resources
 * [TiKV - Distributed transactional key value database powered by Rust and Raft] (https://github.com/pingcap/tikv)
 * [mio - Metal IO] (https://github.com/carllerche/mio)
 * [rust-clippy] (https://github.com/Manishearth/rust-clippy)
+* Servo
+  * https://servo.org/
+  * https://github.com/servo/servo
+
+
 
 Interesting Github Accounts
 * https://github.com/brson
@@ -80,4 +85,7 @@ Interesting Github Accounts
 Interesting Rust Articles
 * http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
   * https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
+* https://medium.com/mozilla-tech/rust-and-the-future-of-systems-programming-b75fba746910#.kch1602m7
+* https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12#.v5klezqcb
+
 
