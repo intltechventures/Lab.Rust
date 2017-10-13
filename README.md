@@ -76,6 +76,7 @@ Interesting Rust Libraries - Github Resources
   * https://servo.org/
   * https://github.com/servo/servo
 * https://github.com/cb372/morocco
+* https://github.com/lloydmeta/frunk
 
 
 Interesting Github Accounts
