@@ -86,8 +86,11 @@ Interesting Github Accounts
 
 
 Interesting Rust Articles
-* http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
-  * https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
+* 2017
+  * https://beachape.com/blog/2017/05/24/rust-from-scala/
+* 2015
+  * http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
+    * https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
 * https://medium.com/mozilla-tech/rust-and-the-future-of-systems-programming-b75fba746910#.kch1602m7
 * https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12#.v5klezqcb
 
