@@ -1,7 +1,12 @@
-Lab.Rust\README.md
 
+Rust Language 
+====
 A repository that serves as my lab for exploring the Rust Language
+
+
+References 
 * https://www.rust-lang.org/
+
 
 Rust Language Community Resources
 * https://users.rust-lang.org/
