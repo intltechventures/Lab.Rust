@@ -4,53 +4,54 @@ Rust Language
 A repository that serves as my lab for exploring the Rust Language
 
 
-References 
+### References 
 * https://www.rust-lang.org/
 
 
-Rust Language Community Resources
+### Rust Language Community Resources
 * https://users.rust-lang.org/
 * https://stackoverflow.com/questions/tagged/rust
 
-Rust Documentation
+### Rust Documentation
+* https://doc.rust-lang.org/book/
 * http://doc.rust-lang.org/nightly/
 * https://www.rust-lang.org/documentation.html
-* https://doc.rust-lang.org/book/
 * https://doc.rust-lang.org/reference.html
 * https://doc.rust-lang.org/nightly/book/bibliography.html
 * https://doc.rust-lang.org/std/
 * http://rustbyexample.com/ 
 * https://doc.rust-lang.org/nomicon/ 
 
-Notepad++ 
+### Notepad++ 
 * https://notepad-plus-plus.org/
 
-Notepad++ Syntax highlighting for Rust.
+### Notepad++ Syntax highlighting for Rust.
 * https://github.com/pfalabella/Rust-notepadplusplus
 
 
-Eclipse IDE Plugin
+### Eclipse IDE Plugin
 * Rust
   * http://rustdt.github.io/
   * https://rustdt.github.io/releases/
   * https://github.com/RustDT/RustDT
 
 
-Labs - Source Code Examples - demos of concepts and techniques
+### Labs - Source Code Examples - demos of concepts and techniques
 * https://github.com/intltechventures/Lab.Rust/tree/master/labs
 
-Useful Resources for Learning Rust
+### Useful Resources for Learning Rust
+* https://github.com/ctjhoa/rust-learning
 * http://zsiciarz.github.io/24daysofrust/
 * https://github.com/nrc/patterns
 * https://this-week-in-rust.org/
 * https://github.com/ctjhoa/rust-learning
 * https://github.com/kud1ing/awesome-rust
 
-Rust Community
+### Rust Community
 * https://www.reddit.com/r/rust/comments/
 * https://crates.io/
 
-Interesting Rust Libraries - Github Resources
+### Interesting Rust Libraries - Github Resources
 * https://github.com/emk/rust-musl-builder  
 * https://github.com/brson/stdx
 * https://github.com/brson/burst
@@ -84,16 +85,21 @@ Interesting Rust Libraries - Github Resources
 * https://github.com/lloydmeta/frunk
 
 
-Interesting Github Accounts
+### Interesting Github Accounts
 * https://github.com/brson
 * https://github.com/pingcap
 * https://github.com/brianm/wsf
 
 
 
-Interesting Rust Articles
+### Interesting Rust Articles
+* 2019 
+
+* 2018
+
 * 2017
   * https://beachape.com/blog/2017/05/24/rust-from-scala/
+
 * 2015
   * http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
     * https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
