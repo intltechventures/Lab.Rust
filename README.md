@@ -1,19 +1,24 @@
 
-Rust Language 
+Rust Language/Programming Resources  
 ====
 A repository that serves as my lab for exploring the Rust Language
 
 
 ### References 
 * https://www.rust-lang.org/
+* https://brson.github.io/fireflowers/
 
 
 ### Rust Language Community Resources
+* https://internals.rust-lang.org/
 * https://users.rust-lang.org/
 * https://stackoverflow.com/questions/tagged/rust
 
+
 ### Rust Documentation
+* https://www.rust-lang.org/learn
 * https://doc.rust-lang.org/book/
+  * https://github.com/rust-lang/book
 * http://doc.rust-lang.org/nightly/
 * https://www.rust-lang.org/documentation.html
 * https://doc.rust-lang.org/reference.html
