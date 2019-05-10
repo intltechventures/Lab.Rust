@@ -48,12 +48,12 @@ A repository that serves as my lab for exploring the Rust Language
 
 ## Useful Resources for Learning Rust
 - https://play.rust-lang.org
-* https://github.com/ctjhoa/rust-learning
-* http://zsiciarz.github.io/24daysofrust/
-* https://github.com/nrc/patterns
-* https://this-week-in-rust.org/
-* https://github.com/ctjhoa/rust-learning
-* https://github.com/kud1ing/awesome-rust
+- https://github.com/ctjhoa/rust-learning
+- http://zsiciarz.github.io/24daysofrust/
+- https://github.com/nrc/patterns
+- https://this-week-in-rust.org/
+- https://github.com/ctjhoa/rust-learning
+- https://github.com/kud1ing/awesome-rust
 
 ## Rust Community
 * https://www.reddit.com/r/rust/comments/
