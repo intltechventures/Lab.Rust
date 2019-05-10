@@ -1,21 +1,20 @@
 
-Rust Language/Programming Resources  
-====
+# Rust Language/Programming Resources  
 A repository that serves as my lab for exploring the Rust Language
 
 
-### References 
+## References 
 * https://www.rust-lang.org/
 * https://brson.github.io/fireflowers/
 
 
-### Rust Language Community Resources
+## Rust Language Community Resources
 * https://internals.rust-lang.org/
 * https://users.rust-lang.org/
 * https://stackoverflow.com/questions/tagged/rust
 
 
-### Rust Documentation
+## Rust Documentation
 * https://www.rust-lang.org/learn
 * https://doc.rust-lang.org/book/
   * https://github.com/rust-lang/book
@@ -27,24 +26,28 @@ A repository that serves as my lab for exploring the Rust Language
 * http://rustbyexample.com/ 
 * https://doc.rust-lang.org/nomicon/ 
 
-### Notepad++ 
+
+## Notepad++ 
 * https://notepad-plus-plus.org/
 
-### Notepad++ Syntax highlighting for Rust.
-* https://github.com/pfalabella/Rust-notepadplusplus
+
+## Notepad++ Syntax highlighting for Rust.
+- https://github.com/pfalabella/Rust-notepadplusplus
 
 
-### Eclipse IDE Plugin
+## Eclipse IDE Plugin
 * Rust
   * http://rustdt.github.io/
   * https://rustdt.github.io/releases/
   * https://github.com/RustDT/RustDT
 
 
-### Labs - Source Code Examples - demos of concepts and techniques
+## Labs - Source Code Examples - demos of concepts and techniques
 * https://github.com/intltechventures/Lab.Rust/tree/master/labs
 
-### Useful Resources for Learning Rust
+
+## Useful Resources for Learning Rust
+- https://play.rust-lang.org
 * https://github.com/ctjhoa/rust-learning
 * http://zsiciarz.github.io/24daysofrust/
 * https://github.com/nrc/patterns
@@ -52,11 +55,11 @@ A repository that serves as my lab for exploring the Rust Language
 * https://github.com/ctjhoa/rust-learning
 * https://github.com/kud1ing/awesome-rust
 
-### Rust Community
+## Rust Community
 * https://www.reddit.com/r/rust/comments/
 * https://crates.io/
 
-### Interesting Rust Libraries - Github Resources
+## Interesting Rust Libraries - Github Resources
 * https://github.com/emk/rust-musl-builder  
 * https://github.com/brson/stdx
 * https://github.com/brson/burst
@@ -90,14 +93,14 @@ A repository that serves as my lab for exploring the Rust Language
 * https://github.com/lloydmeta/frunk
 
 
-### Interesting Github Accounts
+## Interesting Github Accounts
 * https://github.com/brson
 * https://github.com/pingcap
 * https://github.com/brianm/wsf
 
 
 
-### Interesting Rust Articles
+## Interesting Rust Articles
 * 2019 
 
 * 2018
