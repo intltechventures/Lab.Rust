@@ -4,8 +4,10 @@ A repository that serves as my lab for exploring the Rust Language
 
 
 ## References 
-* https://www.rust-lang.org/
-* https://brson.github.io/fireflowers/
+- https://www.rust-lang.org/
+
+- https://brson.github.io/fireflowers/
+
 
 
 ## Rust Language Community Resources
@@ -25,6 +27,10 @@ A repository that serves as my lab for exploring the Rust Language
 * https://doc.rust-lang.org/std/
 * http://rustbyexample.com/ 
 * https://doc.rust-lang.org/nomicon/ 
+
+
+### WebAssembly Support 
+- https://www.rust-lang.org/what/wasm
 
 
 ## Notepad++ 
