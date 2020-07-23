@@ -130,6 +130,9 @@ A repository that serves as my lab for exploring the Rust Language
 
 - https://github.com/lloydmeta/frunk
 
+- Web Frameworks
+  + https://rocket.rs/
+
 
 ## Interesting Github Accounts
 - https://github.com/brson
@@ -145,6 +148,9 @@ A repository that serves as my lab for exploring the Rust Language
 
 ## Interesting Rust Articles
 - https://this-week-in-rust.org/
+
+### 2020
+- [Rust 1.45 Fixes Cast Unsoundness and Stabilizes Support for Web Framework Rocket](https://www.infoq.com/news/2020/07/rust-1-45-cast-rocket/)
 
 ### 2019 
 
