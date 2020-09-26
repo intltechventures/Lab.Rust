@@ -6,6 +6,10 @@ A repository that serves as my lab for exploring the Rust Language
 ## References 
 - https://www.rust-lang.org/
 
+- https://rust-lang.github.io/rfcs/
+  + https://github.com/rust-lang/rfcs
+
+
 - https://brson.github.io/fireflowers/
 
 
