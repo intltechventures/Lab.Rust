@@ -13,6 +13,9 @@ A repository that serves as my lab for exploring the Rust Language
 - https://brson.github.io/fireflowers/
 
 
+## Useful Commands
+- ```$ rustup update stable```
+
 
 ## Rust Language Community Resources
 - https://internals.rust-lang.org/
@@ -153,20 +156,31 @@ A repository that serves as my lab for exploring the Rust Language
 ## Interesting Rust Articles
 - https://this-week-in-rust.org/
 
+### 2021 
+- https://www.infoworld.com/article/3267624/whats-new-in-the-rust-language.html
+  + What’s new in Rust 1.51
+
+
 ### 2020
 - [Rust 1.45 Fixes Cast Unsoundness and Stabilizes Support for Web Framework Rocket](https://www.infoq.com/news/2020/07/rust-1-45-cast-rocket/)
 
+
 ### 2019 
 
+
 ### 2018
+
 
 ### 2017
 - https://beachape.com/blog/2017/05/24/rust-from-scala/
 
+
 ### 2015
-  * http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
-    * https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
-* https://medium.com/mozilla-tech/rust-and-the-future-of-systems-programming-b75fba746910#.kch1602m7
-* https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12#.v5klezqcb
+- http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/
+  + https://gist.github.com/ahl/8b7831a7ce601b461b45#file-scrabble-rs
+
+- https://medium.com/mozilla-tech/rust-and-the-future-of-systems-programming-b75fba746910#.kch1602m7
+
+- https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12#.v5klezqcb
 
 
